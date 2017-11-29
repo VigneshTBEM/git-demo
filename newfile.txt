@@ -1,1 +1,1 @@
-Hi, This is a test message
+Hi new file, This is a test message
